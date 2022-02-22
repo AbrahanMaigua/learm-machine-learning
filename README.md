@@ -1,1 +1,3 @@
-# learm-machine-learning
+# inteligencias artificial
+# Numpy
+# Pandad
