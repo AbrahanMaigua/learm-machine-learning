@@ -1,8 +1,12 @@
 # inteligencias artificial
 segun la [RAE](https://dle.rae.es/inteligencia)
 
-     Es la disciplina científica que se ocupa de crear programas informáticos que ejecutan operaciones comparables
-     a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico.
+     Es la disciplina científica que se ocupa de crear programas informáticos que ejecutan operaciones 
+     comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico.
+
+la inteligencia artifical es una **diciplina**  tiene un conjuntos de tenicas que se utiliza para 
+el desrrolo y solucion de un problema o apredizaje. entre las demas diciplinas no se compara si es
+mejor un un projecto o otro cadda uno proporciona un información a la disiplina. 
 
 la pagina de [Elemental of ai](https://www.elementsofai.com/es?_ga=2.14198391.132550550.1645545035-1800266302.1645545035) menciona: 
 
