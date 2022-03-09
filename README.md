@@ -23,6 +23,9 @@ La capacidad para ejecutar tareas en situaciones complejas sin la dirección con
 ### Adaptabilidad
 La capacidad para mejorar la ejecución de las tareas aprendiendo de la experiencia.
 
+### Regecion
+### Clasificacion
+
 
 # Numpy
 # Pandad
