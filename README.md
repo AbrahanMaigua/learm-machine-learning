@@ -25,7 +25,5 @@ La capacidad para mejorar la ejecución de las tareas aprendiendo de la experien
 
 ### Regecion
 ### Clasificacion
-
-
-# Numpy
-# Pandad
+Numpy
+Pandad
