@@ -4,9 +4,9 @@ segun la [RAE](https://dle.rae.es/inteligencia)
      Es la disciplina científica que se ocupa de crear programas informáticos que ejecutan operaciones 
      comparables a las que realiza la mente humana, como el aprendizaje o el razonamiento lógico.
 
-la inteligencia artifical es una **diciplina**  tiene un conjuntos de tenicas que se utiliza para 
-el desrrolo y solucion de un problema o apredizaje. entre las demas diciplinas no se compara si es
-mejor un un projecto o otro cadda uno proporciona un información a la disiplina. 
+la inteligencia artificial es una **disciplina**  tiene un conjuntos de técnicas que se utiliza para 
+el desarrollo y solución de un problema o aprendizaje. entre las demás disciplinas no se compara si es
+mejor un un proyecto o otro cada uno proporciona información a la disciplina. 
 
 la pagina de [Elemental of ai](https://www.elementsofai.com/es?_ga=2.14198391.132550550.1645545035-1800266302.1645545035) menciona: 
 
@@ -23,7 +23,7 @@ La capacidad para ejecutar tareas en situaciones complejas sin la dirección con
 ### Adaptabilidad
 La capacidad para mejorar la ejecución de las tareas aprendiendo de la experiencia.
 
-### Regecion
-### Clasificacion
+### Regresión
+### Clasificación
 Numpy
 Pandad
