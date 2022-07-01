@@ -17,13 +17,7 @@ la pagina de [Elemental of ai](https://www.elementsofai.com/es?_ga=2.14198391.13
 A la hora de diseñar un AI hay que tener en cuenta que estos dos conceptos así sin importar que
 tarea deba de realizar la Ai  podrá buscar una forma de resolver el problema al que esta resolviendo.
 
-### Autonomía
-La capacidad para ejecutar tareas en situaciones complejas sin la dirección constante del usuario.
+# algorimos de inteligencia artificial
 
-### Adaptabilidad
-La capacidad para mejorar la ejecución de las tareas aprendiendo de la experiencia.
-
-### Regresión
-### Clasificación
-Numpy
-Pandad
+* [nlp]():
+    * SVD and NMF
